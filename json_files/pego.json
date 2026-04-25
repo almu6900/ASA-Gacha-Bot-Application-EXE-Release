@@ -1,0 +1,92 @@
+[
+    {
+        "drop_off": "DediStation01",
+        "grindables": "GrinderStation01",
+        "crafting_station": "CraftingStation01",
+        "crafting_threshold": 3,
+        "pegos": [
+            {
+                "name": "pego1",
+                "teleporter": "StationPegoBed01",
+                "delay": 4500
+            },
+            {
+                "name": "pego2",
+                "teleporter": "StationPegoBed02",
+                "delay": 4500
+            },
+            {
+                "name": "pego3",
+                "teleporter": "StationPegoBed03",
+                "delay": 4500
+            }
+        ]
+    },
+    {
+        "drop_off": "DediStation02",
+        "grindables": "GrinderStation02",
+        "crafting_station": "CraftingStation02",
+        "crafting_threshold": 3,
+        "pegos": [
+            {
+                "name": "pego4",
+                "teleporter": "StationPegoBed04",
+                "delay": 4500
+            },
+            {
+                "name": "pego5",
+                "teleporter": "StationPegoBed05",
+                "delay": 4500
+            },
+            {
+                "name": "pego6",
+                "teleporter": "StationPegoBed6",
+                "delay": 4500
+            }
+        ]
+    },
+    {
+        "drop_off": "DediStation03",
+        "grindables": "GrinderStation03",
+        "crafting_station": "CraftingStation03",
+        "crafting_threshold": 3,
+        "pegos": [
+            {
+                "name": "pego7",
+                "teleporter": "StationPegoBed07",
+                "delay": 4500
+            },
+            {
+                "name": "pego8",
+                "teleporter": "StationPegoBed08",
+                "delay": 4500
+            },
+            {
+                "name": "pego9",
+                "teleporter": "StationPegoBed09",
+                "delay": 4500
+            }
+        ]
+    },
+    {
+        "drop_off": "DediStation04",
+        "grindables": "GrinderStation04",
+        "pegos": [
+            {
+                "name": "pego10",
+                "teleporter": "StationPegoBed10",
+                "delay": 4500
+            },
+            {
+                "name": "pego11",
+                "teleporter": "StationPegoBed11",
+                "delay": 4500
+            },
+            {
+                "name": "pego12",
+                "teleporter": "StationPegoBed12",
+                "delay": 4500
+            }
+        ]
+    }
+]
